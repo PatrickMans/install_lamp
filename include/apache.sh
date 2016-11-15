@@ -188,6 +188,7 @@ EOF
 
     cp -f ${cur_dir}/conf/index.html ${web_root_dir}
     cp -f ${cur_dir}/conf/lamp.gif ${web_root_dir}
+    cp -f ${cur_dir}/conf/logo.png ${web_root_dir}
     cp -f ${cur_dir}/conf/jquery.js ${web_root_dir}
     cp -f ${cur_dir}/conf/p.php ${web_root_dir}
     cp -f ${cur_dir}/conf/phpinfo.php ${web_root_dir}
